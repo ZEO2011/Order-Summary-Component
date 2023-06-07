@@ -34,7 +34,7 @@ button {
 	background-color: #fff;
 	width: 450px;
 	height: 700px;
-	border-radius: 30px;
+	border-radius: 23px;
 	box-shadow: 0 25px 30px hsl(240, 2%, 74%);
 }
 
@@ -44,8 +44,8 @@ button {
 	}
 }
 svg {
-	border-top-left-radius: 30px;
-	border-top-right-radius: 30px;
+	border-top-left-radius: 23px;
+	border-top-right-radius: 23px;
 }
 
 @media (max-width: 767px) {
@@ -59,8 +59,8 @@ svg {
 	margin-right: auto;
 	padding-left: 50px;
 	padding-right: 50px;
-	padding-top: 25px;
-	padding-bottom: 25px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 .text {
@@ -79,6 +79,7 @@ svg {
 	font-size: 16px;
 	padding-left: 25px;
 	padding-right: 25px;
+	line-height: 1.5;
 }
 
 .music {
@@ -113,7 +114,7 @@ svg {
 
 .music .plan .price h5 {
 	font-size: 1.4rem;
-	font-weight: 900;
+	font-weight: 700;
 	margin-bottom: 5px;
 }
 
