@@ -21,6 +21,8 @@ body {
 	background: #e0e8ff;
 	display: grid;
 	place-items: center;
+	background: url(../imgs/pattern-background-desktop.svg) no-repeat #e1e9ff;
+	background-size: contain;
 }
 
 button {
